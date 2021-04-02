@@ -4,17 +4,18 @@ Visitor Count:
 
 
 ![Visitor Count](https://profile-counter.glitch.me/msoygen/count.svg)
-<!--
-**msoygen/msoygen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on a personal mobile game project in Unity
+
+🌱 I’m currently learning Unity, LÖVE2D, Lua
+
+📫 How to reach me: mserdaroygen@gmail.com
+
+:speech_balloon: My blog: https://msoygen.github.io/
+
+:movie_camera: My YouTube Channel: https://www.youtube.com/channel/UC8xFE298G7tRN40rDUEwppw
+
+:video_game: My itch.io page: https://rock0n.itch.io/
+
+:man: Pronouns: he/him
