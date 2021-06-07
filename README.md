@@ -6,8 +6,6 @@ Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/msoygen/count.svg)
 
 
-🔭 I’m currently working on a personal mobile game project in Unity
-
 🌱 I’m currently learning Unity, LÖVE2D, Lua
 
 📫 How to reach me: mserdaroygen@gmail.com
